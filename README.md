@@ -2,7 +2,7 @@
 The _Magento 2 Module Directory Reader_ repository enables custom Magento 2 module directory location. 
 The goal is to provide support for custom Magento 2 modules who respect framework agnostic model.
 
-# Example
+# Example # [Freelance Magento Developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html)
 Suppose you have package which contains 2 directories Magento and Business logic. 
 All Magento related framework dependencies and implementations are going to be in the Magento directory. 
 All business logic which implements functionality is located outside of Magento directory. 
